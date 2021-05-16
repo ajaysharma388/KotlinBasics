@@ -101,4 +101,3 @@ fun main() {
 // Speed Before Applying Brakes 317.89999999999986
 // Speed After Applying Brakes 67.89999999999986
 // Driving the Car At Speed : 67.89999999999986 Kph.
-git
